@@ -19,3 +19,5 @@ Git 是属于「分布式版本控制」系统，本仓库将介绍从如何使�
 * [06 - 使用 GitHub 远程仓库](./docs/06-使用%20GitHub%20远程仓库.md)
 
 * [07 - fetch、pull命令详细介绍](./docs/07%20fetch、pull命令详细介绍.md)
+
+* [08 - tag标签](./docs/08-tag标签.md)
