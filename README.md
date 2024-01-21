@@ -21,3 +21,5 @@ Git 是属于「分布式版本控制」系统，本仓库将介绍从如何使�
 * [07 - fetch、pull命令详细介绍](./docs/07%20fetch、pull命令详细介绍.md)
 
 * [08 - tag标签](./docs/08-tag标签.md)
+
+* [09 - commit 历史版本记录修正](./docs/09-commit%20历史版本记录修正.md)
